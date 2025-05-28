@@ -49,7 +49,7 @@ def save_as_pdf(profil, rekomendasi):
     return pdf_output
 
 def main():
-    st.title("📝 Formulir Pemilihan Jurusan & Kampus")
+    st.title("📝 Rekomendasi Pemilihan Jurusan & Kampus")
     st.write("Silakan isi formulir berikut untuk mengetahui rekomendasi jurusan dan kampus yang sesuai dengan minat dan potensi Anda.")
 
     # Informasi Pribadi
